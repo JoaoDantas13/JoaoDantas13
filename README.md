@@ -1,8 +1,8 @@
 ### Olá Eu sou o João Vitor Dantas 👋
 
 
-- 🔭 Hoje trabalho com Front-End e Back-End
-- 🌱 Atualmente estou estudando Asp.net e Angular ..
+- 🔭 Hoje trabalho com Front-End Angular
+- 🌱 Atualmente estou estudando Asp.net,Angular 12 e JavaScript ..
 - 📫 Contate-me no email : dantasjoaovitor861@gmail.com
 - ⚡ Minha especialidade e Front-End.
 
