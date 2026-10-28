@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Front-End Angular
-- 🌱 Atualmente estou estudando Asp.net,Angular 12 e JavaScript TypeScript..
+- 🌱 Atualmente estou estudando Asp.net,Angular 12+ e JavaScript TypeScript..
 - 📫 Contate-me no email : dantasjoaovitor861@gmail.com
 - ⚡ Minha especialidade e Front-End.
 
